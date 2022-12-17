@@ -33,3 +33,5 @@ villager
 To go into mob mode, execute this command: "/function morphs:[NAME OF ENTITY]" and replace [NAME OF ENTITY] with the listed entites above
 
 You can exit mob mode by using "/function morphs:morphoff".
+
+If you encounter any issues, please try /tag @s remove activeplayer_[NAME OF ENTITY]
